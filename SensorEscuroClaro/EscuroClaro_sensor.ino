@@ -25,7 +25,7 @@ void setup() {
   pinMode(ledAmarelo, OUTPUT);
   pinMode(ledVerde, OUTPUT); 
 
-  //Configuracao foto resistor
+  //Configuracao fotoresistor
   pinMode(pinPhoto, INPUT);
 
   //Configura tela lcd
