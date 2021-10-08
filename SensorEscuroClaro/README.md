@@ -1,6 +1,6 @@
 # Sensor de detecção de luminosidade
 
-Neste projeto usamos um sensor de luz para detectar a luminosidade do ambiente e imprimir as informações em uma tela de lcd 16x2 indicando se está escuro, clarenado ou se já está claro.
+Neste projeto usamos um sensor de luz para detectar a luminosidade do ambiente e imprimir as informações em uma tela de lcd 16x2 indicando se está escuro, semiclaro ou se já está claro.
 
 ## Materiais
 1. Arduíno UNO
