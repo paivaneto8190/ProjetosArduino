@@ -47,7 +47,7 @@ void loop() {
   //Led Amarelo
   if(valor >= 227 && valor < 600) {
     digitalWrite(ledAmarelo, HIGH);
-    tela_lcd.print("Clareando...");
+    tela_lcd.print("Semiclaro");
   }
   else if (valor < 227) {
     digitalWrite(ledAmarelo, LOW);
