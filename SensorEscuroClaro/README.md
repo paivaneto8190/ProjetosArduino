@@ -27,7 +27,7 @@ No LCD, as duas primeiras portas usamos para alimentação, a terceira porta con
 No fotoresistor, alimentamos o sensor com 5 volts no terminal 2 e no terminal 1 colocamos um resistor de 1000 omhs para controlar a sensibilidade e ligamos a porta analógica A0 do arduíno.
 
 Abaixo uma foto do circuito montado:
-(COLOCAR FOTO AQUI)
+![circuito1](https://github.com/paivaneto8190/ProjetosArduino/blob/master/SensorEscuroClaro/circuito1.png?raw=true)
 
 ## Código
 O código completo está no arquivo "EscuroClaro_sensor.ino"
